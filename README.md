@@ -1,154 +1,211 @@
-# 🖥️ Maria Luiza Espigiorin de Oliveira
+<div align="center">
 
-**`Game Developer | FullStack Developer | UI/UX Designer`**
+# MARIA ESPIGIORIN
 
-Me chamo Maria Luiza (Malu), sou natural do Paraná e apaixonada por tecnologia, design e desenvolvimento de software.  
-Concluí o Ensino Médio Técnico integrado em Programação de Jogos Digitais no IFPR e atualmente curso Bacharelado em Ciência da Computação.
+### Full Stack Developer · Computer Science Student
 
-Tenho experiência com desenvolvimento de jogos na Unity, criação de interfaces modernas e funcionais, e desenvolvimento web fullstack.  
-Estou construindo minha carreira com foco em projetos sólidos, trabalho remoto e oportunidades internacionais 🌍
+Desenvolvimento de aplicações e produtos digitais, da interface à implementação.
 
----
+<br>
 
-<p align="left">
-    <a href="https://github.com/SEUUSUARIO?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEUUSUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SEUUSUARIO?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEUUSUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+[PORTFÓLIO](https://mariaespigiorin.vercel.app) ·
+[LINKEDIN](https://www.linkedin.com/in/mariaespigiorin/) ·
+[EMAIL](mailto:maria.espigiorin@gmail.com)
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre
 
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Unity"
-    title="Unity" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Blender"
-    title="Blender" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+Sou desenvolvedora Full Stack e estudante de Ciência da Computação, com formação técnica em Programação de Jogos Digitais pelo Instituto Federal do Paraná (IFPR).
 
-<br/>
-<br/>
+Atuo no desenvolvimento de aplicações web, trabalhando desde a construção da interface até a implementação de funcionalidades, integrações, APIs e deploy.
+
+Também desenvolvo projetos para clientes como freelancer, o que me permite trabalhar com produtos e necessidades reais. Minha experiência com UI/UX complementa meu trabalho em desenvolvimento, principalmente na construção de interfaces funcionais, responsivas e centradas no usuário.
 
 ---
 
-### 🚀 Projetos em Destaque
+## Tech Stack
 
-- 🎮 **Martial Spirit** – RPG educativo inspirado nos valores do Karate-Do
-- 🌌 **Cosmic Collapse** – Projeto de jogo 3D no espaço
-- 🌐 **MartialSpiritSite** – Website institucional desenvolvido para apresentação do TCC
-- 🛍️ Projetos de UI/UX e e-commerce
-
----
-
-<!-- ### 📊 Estatísticas
+### Front-end
 
 <p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
 
-  <img
-      align="left"
-      alt="Top Langs"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-  />
-</p> -->
+`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS`
+
+### Back-end & Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,cs,mysql,postgres" />
+</p>
+
+`Node.js` `REST APIs` `Python` `C#` `SQL` `MySQL` `PostgreSQL`
+
+### Ferramentas & Outras Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,cpp,unity" />
+</p>
+
+`Git` `GitHub` `Vercel` `Figma` `C++` `Unity` `POO` `Modelagem de Dados`
+
+---
+
+# Projetos Selecionados
+
+## Tropdan
+
+**E-commerce Full Stack · Projeto Comercial**
+
+Desenvolvimento de uma plataforma de e-commerce para a Tropdan, trabalhando na construção da experiência, interface, funcionalidades e integrações necessárias para uma operação real de vendas online.
+
+O projeto inclui integrações com pagamento, logística e comunicação transacional.
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js`  
+`Mercado Pago` `Melhor Envio` `Resend` `APIs`
+
+> Projeto desenvolvido para cliente. O código-fonte é privado.
+
+---
+
+## Portfólio Pessoal
+
+**Desenvolvimento Web · Projeto Autoral**
+
+Portfólio desenvolvido para reunir meus projetos, experiências e trajetória profissional em uma experiência web própria.
+
+Construído com foco em performance, responsividade, componentização, animações e integração de formulário de contato.
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `Resend`
+
+[VER PROJETO](https://mariaespigiorin.vercel.app) · [REPOSITÓRIO](https://github.com/MariaEspigiorin/maria-portfolio)
+
+---
+
+## Structra
+
+**Desenvolvimento de Software**
+
+Projeto desenvolvido com foco na construção de uma solução digital funcional, aplicando conceitos de desenvolvimento de software, organização de código e experiência do usuário.
+
+[REPOSITÓRIO](https://github.com/MariaEspigiorin/Structra)
+
+---
+
+## HackIF
+
+**Plataforma para Hackathon · Projeto Acadêmico**
+
+Aplicação desenvolvida como parte de um projeto acadêmico para apoiar a realização de um Hackathon no IFPR.
+
+O projeto envolve desenvolvimento de interfaces responsivas, componentização e estruturação de uma experiência digital para apresentação de desafios, informações e resultados do evento.
+
+**Stack**
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+[REPOSITÓRIO](https://github.com/diogogapski/Hackaton)
+
+---
+
+## Martial Spirit
+
+**Game Development · Projeto Acadêmico**
+
+RPG educativo desenvolvido durante o curso Técnico em Programação de Jogos Digitais, explorando os princípios e valores do Karate-Do através de uma experiência interativa.
+
+O projeto reuniu programação, game design, desenvolvimento de interfaces e construção de sistemas dentro da Unity.
+
+**Stack**
+
+`Unity` `C#` `Game Development`
+
+[REPOSITÓRIO](https://github.com/zedando/MartialSpiritTcc_GitRight1)
+
+---
+
+## Trajetória
+
+**Atualmente**  
+`Desenvolvedora Full Stack · Freelancer`
+
+Desenvolvimento de aplicações, sites e soluções digitais para projetos e clientes.
+
+**2026 — Atual**  
+`Bacharelado em Ciência da Computação · IFPR`
+
+Formação em andamento com foco em fundamentos da computação e desenvolvimento de software.
+
+**2024 — 2025**  
+`Estágio em Tecnologia da Informação · IFPR`
+
+Suporte técnico, hardware, software e infraestrutura de TI.
+
+**2022 — 2025**  
+`Técnico em Programação de Jogos Digitais · IFPR`
+
+Programação, orientação a objetos, desenvolvimento de jogos, banco de dados e desenvolvimento de software.
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=MariaEspigiorin&show_icons=true&hide_border=true&locale=pt-br"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEspigiorin&layout=compact&hide_border=true&langs_count=8"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=MariaEspigiorin&hide_border=true&locale=pt_BR"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MariaEspigiorin&hide_border=true&area=true"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Vamos construir algo?
+
+Estou sempre aberta a novas experiências, projetos e conexões na área de tecnologia.
+
+[PORTFÓLIO](https://mariaespigiorin.vercel.app) ·
+[LINKEDIN](https://www.linkedin.com/in/mariaespigiorin/) ·
+[EMAIL](mailto:maria.espigiorin@gmail.com)
+
+<br>
+
+**Maria Espigiorin**  
+`Design · Development · Technology`
+
+</div>
